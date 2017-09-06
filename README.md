@@ -1,12 +1,12 @@
 # Brainfuck-JavaScript
 Brainfuck Interpreter in JavaScript
 
-## Use
+## Usage
 ```JavaScript:
 interpreter( 'Brainfuck program' )
 ```
 
-### Ex
+## Example
 Input :  
 ```JavaScript:
 interpreter( '>++++++++[<++++++++>-]>+++++[<+++++>-]<[<+.>-]<+.' )
